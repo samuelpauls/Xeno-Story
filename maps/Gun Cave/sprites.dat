@@ -1,0 +1,8 @@
+Door id:"Outside Door" x:137 y:250 destination_map_name:Outside destination_door_id:"Gun Cave Door" open:1
+Crabby id:1 x:280 y:265 health:5 god:0 has_crab_cannon:1
+Socom id:2 x:240 y:119 level:1 energy:0
+Torch id:3 x:120 y:270 lit:1
+Torch id:4 x:172 y:270 lit:1
+Torch id:5 x:362 y:270 lit:1
+Torch id:6 x:455 y:195 lit:1
+Torch id:7 x:308 y:120 lit:1

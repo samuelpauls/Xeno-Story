@@ -1,0 +1,28 @@
+9
+left_front_foot
+1
+58 -1 350
+left_back_foot
+1
+20 -1 700
+torso
+1
+0 11 350
+right_back_joint
+1
+-30 10 350
+right_front_joint
+1
+-2 10 700
+right_back_foot
+1
+-40 -1 350
+right_front_foot
+1
+-18 -1 700
+left_claw
+1
+60 5 350
+right_claw
+1
+25 5 350

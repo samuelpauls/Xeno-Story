@@ -1,0 +1,10 @@
+Crabby id:0 x:506 y:206 health:5 god:0 has_crab_cannon:1
+Door id:"Outside Door" x:671 y:100 destination_map_name:Outside destination_door_id:"Save Cave Door" open:1
+Torch id:2 x:708 y:111 lit:1
+Torch id:3 x:658 y:107 lit:1
+"Save Stone" id:4 x:754 y:175
+Door id:5 x:151 y:375 open:0
+Torch id:6 x:135 y:390 lit:1
+Torch id:7 x:184 y:387 lit:1
+Torch id:8 x:783 y:195 lit:1
+Torch id:10 x:481 y:477 lit:1

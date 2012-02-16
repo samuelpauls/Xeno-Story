@@ -1,0 +1,5 @@
+Door id:"To Entrance" x:588 y:600 destination_map_name:"Level 2 S" destination_door_id:"To Elevator" open:1
+"Save Stone" id:92 x:243 y:625
+Door id:"Control Room" x:163 y:150 destination_map_name:"Level 2 Control Room" destination_door_id:Door open:1
+Door id:"Gun Room" x:639 y:150 destination_map_name:"Level 2 Gun Room" destination_door_id:Door open:1
+"Robo Lift" id:95 x:375 y:121

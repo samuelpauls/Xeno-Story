@@ -1,0 +1,13 @@
+Door id:"Pre Boss Higher Door" x:187 y:225 destination_map_name:"Pre Boss" destination_door_id:"Boss Higher Door" open:0
+Door id:"Pre Boss Lower Door" x:387 y:100 destination_map_name:"Pre Boss" destination_door_id:"Boss Lower Door" open:0
+Door id:"Boss End Door" x:912 y:100 destination_map_name:"Level 2 Start" destination_door_id:Entrance open:0
+"Giant Crab" id:boss x:725 y:330 health:20 death_command:"achievement 'Giant Crab'; open_all_doors; play_music Grasslands.ogg" god:0 has_giant_crab_cannon:1 has_giant_crab_fist:1
+Crabby id:3 x:725 y:115 health:5 god:0 has_crab_cannon:1
+Crabby id:4 x:775 y:115 health:5 god:0 has_crab_cannon:1
+Crabby id:5 x:875 y:115 health:5 god:0 has_crab_cannon:1
+Torch id:6 x:175 y:245 lit:1
+Torch id:7 x:218 y:245 lit:1
+Torch id:8 x:370 y:120 lit:1
+Torch id:9 x:420 y:120 lit:1
+Torch id:10 x:898 y:120 lit:1
+Torch id:11 x:940 y:120 lit:1

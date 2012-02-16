@@ -1,0 +1,10 @@
+"Save Stone" id:201 x:596 y:75
+Torch id:202 x:678 y:265 lit:1
+Torch id:203 x:628 y:264 lit:1
+Torch id:205 x:429 y:192 lit:1
+Torch id:206 x:135 y:268 lit:1
+Torch id:207 x:311 y:239 lit:1
+Torch id:208 x:545 y:238 lit:1
+Door id:"Level 2 Nexus" x:645 y:250 destination_map_name:"Level 2 Nexus" destination_door_id:"Robo Base 1" open:1
+Door id:"Level 2 Base" x:152 y:250 destination_map_name:"Level 2 Base Hall" destination_door_id:"To Entrance" open:1
+Torch id:105 x:629 y:84 lit:1

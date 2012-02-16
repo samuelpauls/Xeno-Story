@@ -1,0 +1,6 @@
+5
+play_music "Grasslands Boss.ogg"
+monitor_avatar boss boss
+attach_camera boss
+title "Giant Enemy Crab"
+delay 3000 attach_camera xeno

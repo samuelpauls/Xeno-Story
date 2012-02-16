@@ -1,0 +1,2 @@
+Door id:"To Elevator" x:155 y:125 destination_map_name:"Level 2 Shaft" destination_door_id:"To Entrance" open:1
+Door id:"To Entrance" x:526 y:475 destination_map_name:"Level 2 Base Hall" destination_door_id:"To Base" open:1

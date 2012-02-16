@@ -1,0 +1,3 @@
+create_player Xeno id:xeno
+teleport_player Home 275 151
+play_music Grasslands.ogg

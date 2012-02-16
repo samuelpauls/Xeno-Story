@@ -1,0 +1,15 @@
+Door id:"Outside Door" x:162 y:300 destination_map_name:Outside destination_door_id:"Pre Boss Door" open:1
+Door id:"Boss Higher Door" x:697 y:300 destination_map_name:Boss destination_door_id:"Pre Boss Higher Door" open:1
+Door id:"Boss Lower Door" x:562 y:100 destination_map_name:Boss destination_door_id:"Pre Boss Lower Door" open:1
+Crabby id:3 x:325 y:265 health:5 god:0 has_crab_cannon:1
+Crabby id:4 x:460 y:190 health:5 god:0 has_crab_cannon:1
+Crabby id:5 x:690 y:315 health:5 god:0 has_crab_cannon:1
+Torch id:6 x:145 y:320 lit:1
+Torch id:7 x:196 y:320 lit:1
+Torch id:8 x:730 y:320 lit:1
+Torch id:9 x:512 y:320 lit:1
+Torch id:10 x:360 y:270 lit:1
+Torch id:11 x:460 y:195 lit:1
+Torch id:12 x:545 y:120 lit:1
+Torch id:13 x:595 y:120 lit:1
+"P90 Gate" id:14 x:530 y:300

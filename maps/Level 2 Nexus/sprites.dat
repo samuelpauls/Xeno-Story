@@ -1,0 +1,24 @@
+Heart id:395 x:318 y:534
+Torch id:114 x:136 y:486 lit:1
+Torch id:115 x:179 y:486 lit:1
+Torch id:116 x:474 y:116 lit:1
+Torch id:117 x:524 y:114 lit:1
+Torch id:118 x:510 y:666 lit:1
+Torch id:119 x:556 y:665 lit:1
+Torch id:120 x:290 y:369 lit:1
+Torch id:121 x:383 y:369 lit:1
+Torch id:122 x:480 y:368 lit:1
+Torch id:123 x:577 y:368 lit:1
+Torch id:124 x:681 y:366 lit:1
+Torch id:125 x:773 y:240 lit:1
+Torch id:126 x:668 y:136 lit:1
+Torch id:149 x:768 y:510 lit:1
+Torch id:150 x:619 y:513 lit:1
+Door id:"Secret Door" x:150 y:475 destination_map_name:"Level 2 Start" destination_door_id:"Secret Door" open:1
+Door id:Entrance x:523 y:650 destination_map_name:"Level 2 Start" destination_door_id:Exit open:1
+Door id:"Robo Base 1" x:491 y:101 destination_map_name:"Level 2 Base Entrance" destination_door_id:"Level 2 Nexus" open:1
+Crabby id:176 x:882 y:500 health:5 god:0 has_crab_cannon:1
+Crabby id:178 x:667 y:450 health:5 god:0 has_crab_cannon:1
+Crabby id:180 x:330 y:350 health:5 god:0 has_crab_cannon:1
+Crabby id:182 x:606 y:100 health:5 god:0 has_crab_cannon:1
+"P90 Gate" id:184 x:1127 y:400

@@ -1,0 +1,2 @@
+Door id:"To Base" x:154 y:125 destination_map_name:"Level 2 S" destination_door_id:"To Entrance" open:1
+Door id:"To Entrance" x:676 y:125 destination_map_name:"Level 2 Base Entrance" destination_door_id:"Level 2 Base" open:1

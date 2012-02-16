@@ -1,0 +1,20 @@
+Door id:"Home Door" x:262 y:675 destination_map_name:Home destination_door_id:"Outside Door" open:1
+Door id:"Gun Cave Door" x:1112 y:725 destination_map_name:"Gun Cave" destination_door_id:"Outside Door" open:1
+Door id:"Pre Boss Door" x:687 y:125 destination_map_name:"Pre Boss" destination_door_id:"Outside Door" open:1
+Girl id:3 x:210 y:675 unique_interaction_command:"message_box Girl 'Hiya Xeno!'"
+Crabby id:4 x:739 y:814 health:5 god:0 has_crab_cannon:1
+Crabby id:5 x:1075 y:940 health:5 god:0 has_crab_cannon:1
+Crabby id:6 x:925 y:465 health:5 god:0 has_crab_cannon:1
+Torch id:7 x:1095 y:748 lit:1
+Torch id:8 x:1143 y:748 lit:1
+Torch id:9 x:725 y:518 lit:1
+Torch id:10 x:1137 y:570 lit:1
+Torch id:11 x:921 y:343 lit:1
+Torch id:12 x:822 y:270 lit:1
+Torch id:13 x:825 y:420 lit:1
+Torch id:14 x:896 y:193 lit:1
+Torch id:15 x:673 y:142 lit:1
+Torch id:16 x:718 y:142 lit:1
+Torch id:17 x:335 y:170 lit:1
+Heart id:18 x:351 y:159
+Door id:"Save Cave Door" x:1025 y:475 destination_map_name:"Save Cave" destination_door_id:"Outside Door" open:1

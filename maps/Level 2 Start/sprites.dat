@@ -1,0 +1,9 @@
+Torch id:207 x:125 y:485 lit:1
+Torch id:208 x:189 y:485 lit:1
+Torch id:209 x:374 y:456 lit:1
+Torch id:210 x:578 y:482 lit:1
+Torch id:213 x:627 y:482 lit:1
+Door id:Entrance x:151 y:475 destination_map_name:Boss destination_door_id:"Boss End Door" open:1
+Door id:Exit x:593 y:475 destination_map_name:"Level 2 Nexus" destination_door_id:Entrance open:1
+Torch id:216 x:255 y:111 lit:1
+Door id:"Secret Door" x:276 y:100 destination_map_name:"Level 2 Nexus" destination_door_id:"Secret Door" open:1
